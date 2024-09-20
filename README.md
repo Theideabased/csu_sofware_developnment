@@ -1,2 +1,2 @@
 # csu_sofware_developnment
-learning software devekopnment
+learning software developnment
